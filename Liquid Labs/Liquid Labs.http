@@ -1,0 +1,6 @@
+@Liquid_Labs_HostAddress = http://localhost:5184
+
+GET {{Liquid_Labs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
